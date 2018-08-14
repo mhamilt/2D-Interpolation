@@ -5,4 +5,4 @@ Currently the function interp2D() will output an entire matrix but can be easily
   
 main.m contains a short script for illustration
 
-![Example Output](https://github.com/mhamilt/2D-Interpolation/example.png)
+![Example Output](https://github.com/mhamilt/2D-Interpolation/blob/master/example.png)
